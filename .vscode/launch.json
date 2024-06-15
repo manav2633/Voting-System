@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Assignment2FulyaDemirkanApplication<Assignment2_Fulya_Demirkan>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ca.sheridancollege.Assignment2FulyaDemirkanApplication",
+            "projectName": "Assignment2_Fulya_Demirkan",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Assignment2FulyaDemirkanApplication<Assignment2_Fulya_Demirkan>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ca.voting.Assignment2FulyaDemirkanApplication",
+            "projectName": "Assignment2_Fulya_Demirkan",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-VotingApplication<Assignment2_Fulya_Demirkan>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ca.voting.VotingApplication",
+            "projectName": "Assignment2_Fulya_Demirkan",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
